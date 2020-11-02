@@ -22,7 +22,8 @@
         - Keep: types of variables, tabular data
         - Remove: types of data, matching data to questions, limits of analysis, measurement
         - Includes filtering rows of dataframe, e.g. < 3
-- Practice problems (~40 minutes)
+- Practice problem (~10 minutes)
+- Independent problem solving (~30 minutes)
     - Near transfer (with worked example available; change number on filter, e.g. < 10)
     - Near transfer (without worked example available; change number as before, but different)
     - Far transfer (e.g. > 7)
